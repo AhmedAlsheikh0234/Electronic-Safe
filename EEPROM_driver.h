@@ -2,7 +2,7 @@
  * EEPROM_driver.h
  *
  * Created: 12/4/2023 12:54:49 AM
- *  Author: HaNdSyA---
+ *  Author: Ahmed Al-Sheikh
  */ 
 
 
